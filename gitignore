@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Logs
+*.log
+
+# User-specific files
+*.env
+credentials.txt
+
+# Virtual hosts config backups
+*.conf.bak
